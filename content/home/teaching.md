@@ -15,8 +15,12 @@ weight = 60
 
 +++
 
-+Statistics 571 (Fall 2018)
++Statistics 571 - Statistics for Bioscience 1 (Fall 2018)
 
-+Statistics 301 (Spring 2015)
+<!-- Notes for RStudio and R, based on Professor Murray Clayton's original notes using RCommander
 
-+Statistics 224 (Fall 2014)
+Lecture handouts-->
+
++Statistics 301 - Introduction to Statistical Methods (Spring 2015)
+
++Statistics 224 - Introductory Statistics for Engineers (Fall 2014)

@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-+Statistics 571 - Statistics for Bioscience 1 (Fall 2018)
++Statistics 571 - Statistics for Bioscience I (Fall 2018)
 
 <!-- Notes for RStudio and R, based on Professor Murray Clayton's original notes using RCommander
 

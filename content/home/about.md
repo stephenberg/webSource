@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-I am a PhD student in statistics. Here is a link to my [cv](/cv/BergResume.pdf).
+I am a PhD student in statistics. Here is a link to my [cv](/cv/BergCV.pdf).
 
 

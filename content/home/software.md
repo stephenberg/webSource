@@ -18,7 +18,7 @@ weight = 60
 [cran](https://cran.r-project.org/web/packages/automultinomial/index.html) and   [GitHub](https://github.com/stephenberg/automultinomial) 
 <img src = "/software/automultinomial/plotk2.png", width = "200", height = "200">
 
-* The <tt>bcd</tt> package. This is a c++ implementation (with R wrappers via Rcpp) of block coordinate descent for fitting group lasso penalized linear (logistic, multinomial, Poisson, multiresponse linear) regression models. It supports the overlapping group lasso without explicit duplication of the columns of the design matrix, and sparse design matrices. Available for download on [GitHub](https://github.com/stephenberg/bcd).
+* The <tt>bcd</tt> package. This is a C++ implementation (with R wrappers via Rcpp) of block coordinate descent for fitting group lasso penalized linear (logistic, multinomial, Poisson, multiresponse linear) regression models. It supports the overlapping group lasso without explicit duplication of the columns of the design matrix, and sparse design matrices. Available for download on [GitHub](https://github.com/stephenberg/bcd).
 
 * [GitHub](https://github.com/stephenberg)
 

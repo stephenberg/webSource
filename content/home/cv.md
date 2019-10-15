@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-[CV Fall 2018](/cv/BergCV.pdf)
+[CV Fall 2019](/cv/berg_cv.pdf)

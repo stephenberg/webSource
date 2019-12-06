@@ -15,9 +15,7 @@ weight = 100
 
 +++
 
-* Workshop on Rcpp/RcppEigen for student seminar, UW-Madison, 12/7/2018 
-+ [slides](/presentations/materials/bergSeminarPres.pdf)
-+ [materials.zip](/presentations/materials.zip)
+* Workshop on Rcpp/RcppEigen for student seminar, UW-Madison, 12/7/2018 ([slides](/presentations/materials/bergSeminarPres.pdf)) ([materials.zip](/presentations/materials.zip))
 
 
 

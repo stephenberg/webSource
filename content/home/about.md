@@ -18,9 +18,8 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics"
+  course = "PhD in Statistics, 2020 (expected)"
   institution = "University of Wisconsin-Madison"
-  year = 2024
 
 [[education.courses]]
   course = "MS in Statistics "

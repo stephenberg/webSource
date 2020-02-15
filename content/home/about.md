@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Statistics"
   institution = "University of Wisconsin-Madison"
-  year = "Expected 2020"
+  year = "2020 (expected)"
 
 [[education.courses]]
   course = "MS in Statistics "

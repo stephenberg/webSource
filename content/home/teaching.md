@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-+Graduate student lecturer, Statistics 571 - Statistics for Bioscience I (Fall 2018), 
++Graduate student lecturer, Statistics 571 - Statistics for Bioscience I (Fall 2018, Fall 2019) 
 
 <!-- Notes for RStudio and R, based on Professor Murray Clayton's original notes using RCommander
 

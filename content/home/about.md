@@ -18,8 +18,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics, 2020 (expected)"
+  course = "PhD in Statistics"
   institution = "University of Wisconsin-Madison"
+  year = "Expected 2020"
 
 [[education.courses]]
   course = "MS in Statistics "
@@ -35,6 +36,6 @@ weight = 5
 
 # Biography
 
-I am a PhD student in statistics. Here is a link to my [cv](/cv/BergCV.pdf).
+I am a PhD student in statistics. Here is a link to my [cv](/cv/berg_cv.pdf).
 
 

@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "https://stephenberg.github.io"
 
 #publishDir="../stephenberg.github.io"
 
@@ -198,11 +198,11 @@ enableGitInfo = false
   weight=4
 
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 1
-  reading_time=false
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 1
+#  reading_time=false
 
 
 # Configure the English version of the website.

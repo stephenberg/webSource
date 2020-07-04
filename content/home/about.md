@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Statistics"
   institution = "University of Wisconsin-Madison"
-  year = "2020 (expected)"
+  year = "2020"
 
 [[education.courses]]
   course = "MS in Statistics "
@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-I am a PhD student in statistics. Here is a link to my [cv](/cv/berg_cv.pdf).
+I am an assistant professor of statistics at Penn State University. Here is a link to my [cv](/cv/berg_cv.pdf).
 
 

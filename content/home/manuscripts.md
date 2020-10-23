@@ -15,7 +15,7 @@ weight = 56
 
 +++
 
-Shea, M.E., Clayton, M.K., Townsend, P.A., Berg, S., Elza, H., Mladenoff, D.J. Identifying eco-tone location using the co-occurrence property. *Journal of Vegetation Science*, pp. 196-203, 2020. [[pdf]](https://doi.org/10.1111/jvs.12929)
+Shea, M.E., Clayton, M.K., Townsend, P.A., Berg, S., Elza, H., Mladenoff, D.J. (2020) Identifying eco-tone location using the co-occurrence property. *Journal of Vegetation Science*, pp. 196-203. [[pdf]](https://doi.org/10.1111/jvs.12929)
 
 Berg, S., Zhu, J., Clayton, M.K. (2020) Control variates and Rao-Blackwellization for deterministic sweep Markov chains. Under review. [[arXiv]](https://arxiv.org/abs/1912.06926)
 
